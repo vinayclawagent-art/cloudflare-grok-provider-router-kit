@@ -8,7 +8,10 @@ A small local-first builder that turns `Grok Models on Cloudflare AI Gateway` in
 ## How to run/open
 Open `index.html` in a browser. No build step required. Inputs persist in localStorage.
 
+## Evidence preset
+- [[Real Workflow Evidence Preset - Provider Router]] — fill this during the next real VinClawLabs workflow trial to capture request shape, candidate providers/models, routing rule, observed latency/cost/quality, failure behavior, and route decision.
+
 ## Next iteration ideas
-- Add example presets for VinClawLabs projects.
+- Fill the provider-router evidence preset during a real workflow; do not treat the route as validated until latency, cost, and quality tradeoffs are recorded.
 - Export markdown directly into Obsidian.
 - Add an evidence log after the first real trial.

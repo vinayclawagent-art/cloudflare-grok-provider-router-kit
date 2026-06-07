@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/cloudflare-grok-provider-rou
 score: 8
 artifact_tracks: [prototype, infographic]
 improvement_cadence: nightly
-last_improved: 2026-06-06
+last_improved: 2026-06-07
 tags: [artifact-package, model-routing, cloudflare, grok]
 ---
 # Artifact Package: Cloudflare Grok Provider Router Kit
@@ -23,6 +23,7 @@ Cloudflare AI Gateway makes multimodal provider routing feel like product infras
 ## Generated artifacts
 - Prototype: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/index.html|Provider Router Recipe Builder]]
 - Prototype README: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/README.md]]
+- Evidence preset: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Real Workflow Evidence Preset - Provider Router|Real Workflow Evidence Preset - Provider Router]]
 - Infographic: [[Artifacts/Infographics/cloudflare-grok-provider-router-kit/workflow.md]]
 - Improvement loop: [[Cloudflare Grok Provider Router Kit Loop]]
 
@@ -37,11 +38,13 @@ No new skill candidate; this is currently best as a product/prototype package.
 
 ## Improvement backlog
 - Run the prototype against a real VinClawLabs workflow.
-- Add a before/after evidence template after first use.
+- [x] Add a real-workflow evidence preset for provider routing before the first trial.
+- Add a before/after evidence log after first use.
 - Convert repeated checklist fields into an installable Hermes skill only after validation.
 
 ## GitHub repo
 https://github.com/vinayclawagent-art/cloudflare-grok-provider-router-kit
 
 ## Change log
+- 2026-06-07: Added a fillable provider-router evidence preset and linked it from the prototype README; preset is ready for the next trial, with no route validation proof invented.
 - 2026-06-06: Created package, prototype, repo mirror, and improvement loop from X source.
