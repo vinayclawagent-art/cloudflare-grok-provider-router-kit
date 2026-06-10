@@ -13,6 +13,9 @@ Inspired by: https://x.com/xai/status/2062294202625696081
 ## Quickstart
 Open `prototype/index.html` in a browser.
 
+## Latest improvement
+- `prototype/Provider Router Promotion Decision Card.md` — decision gate for promote route / workflow-specific only / iterate / hold.
+
 ## Roadmap
 - Add filled examples from real workflows.
 - Add export helpers after first use.

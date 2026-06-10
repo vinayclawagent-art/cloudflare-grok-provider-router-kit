@@ -11,9 +11,11 @@ Open `index.html` in a browser. No build step required. Inputs persist in localS
 ## Evidence preset
 - [[Real Workflow Evidence Preset - Provider Router]] — fill this during the next real VinClawLabs workflow trial to capture request shape, candidate providers/models, routing rule, observed latency/cost/quality, failure behavior, and route decision.
 - [[Provider Router Trial Handoff Checklist]] — use this immediately before the next real workflow trial to lock request shape, candidate models, routing criterion, decision gate, and follow-up steps.
+- [[Provider Router Trial Packet]] — run this packet during the next real workflow so checklist, evidence, decision, and follow-up patches stay in one place.
+- [[Provider Router Promotion Decision Card]] — complete after the trial packet to choose promote route / workflow-specific only / iterate recipe / hold without overstating validation.
 
 ## Next iteration ideas
-- Fill the provider-router evidence preset during a real workflow; do not treat the route as validated until latency, cost, and quality tradeoffs are recorded.
+- Fill the provider-router trial packet and promotion decision card during a real workflow; do not treat the route as validated until latency, cost, quality, failure behavior, and human review tradeoffs are recorded.
 - Use the provider-router trial handoff checklist before the first run so route criteria and candidate providers are explicit before evidence is collected.
 - Export markdown directly into Obsidian.
 - Add an evidence log after the first real trial.
