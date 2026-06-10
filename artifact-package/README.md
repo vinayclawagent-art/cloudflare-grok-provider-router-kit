@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/cloudflare-grok-provider-rou
 score: 8
 artifact_tracks: [prototype, infographic]
 improvement_cadence: nightly
-last_improved: 2026-06-09
+last_improved: 2026-06-10
 tags: [artifact-package, model-routing, cloudflare, grok]
 ---
 # Artifact Package: Cloudflare Grok Provider Router Kit
@@ -27,6 +27,7 @@ Cloudflare AI Gateway makes multimodal provider routing feel like product infras
 - Trial handoff checklist: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Trial Handoff Checklist|Provider Router Trial Handoff Checklist]]
 - Trial packet: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Trial Packet|Provider Router Trial Packet]]
 - Promotion decision card: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Promotion Decision Card|Provider Router Promotion Decision Card]]
+- Post-trial debrief template: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Post-Trial Debrief Template|Provider Router Post-Trial Debrief Template]]
 - Infographic: [[Artifacts/Infographics/cloudflare-grok-provider-router-kit/workflow.md]]
 - Improvement loop: [[Cloudflare Grok Provider Router Kit Loop]]
 
@@ -45,6 +46,7 @@ No new skill candidate; this is currently best as a product/prototype package.
 - [x] Add a provider-router trial handoff checklist so route criteria and decision gates are set before the first trial.
 - [x] Add a trial packet that sequences checklist, evidence capture, and follow-up for the first real provider-router trial.
 - [x] Add a promotion decision card so future route evidence maps to promote route / workflow-specific only / iterate / hold.
+- [x] Add a post-trial debrief template that turns future evidence into a patch queue without claiming validation.
 - Add a before/after evidence log after first use.
 - Convert repeated checklist fields into an installable Hermes skill only after validation.
 
@@ -52,6 +54,7 @@ No new skill candidate; this is currently best as a product/prototype package.
 https://github.com/vinayclawagent-art/cloudflare-grok-provider-router-kit
 
 ## Change log
+- 2026-06-10: Added a Provider Router Post-Trial Debrief Template so the first real route trial can produce source-backed lessons, patch queue items, and a reusable-route claim check without inventing proof.
 - 2026-06-09: Added a Provider Router Promotion Decision Card so the next real route trial has an explicit promote route / workflow-specific only / iterate recipe / hold gate; card is ready, not validation proof.
 - 2026-06-08: Added a Provider Router Trial Packet to sequence checklist, evidence preset, and decision work before any reusable route claim.
 - 2026-06-07: Added a fillable provider-router evidence preset and linked it from the prototype README; preset is ready for the next trial, with no route validation proof invented.

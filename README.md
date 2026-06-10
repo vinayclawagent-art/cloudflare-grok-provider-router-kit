@@ -14,9 +14,10 @@ Inspired by: https://x.com/xai/status/2062294202625696081
 Open `prototype/index.html` in a browser.
 
 ## Latest improvement
-- `prototype/Provider Router Promotion Decision Card.md` — decision gate for promote route / workflow-specific only / iterate / hold.
+- `prototype/Provider Router Post-Trial Debrief Template.md` — post-trial source-backed patch queue template before reusable-route wording changes.
 
 ## Roadmap
+- Fill the trial packet, promotion decision card, and post-trial debrief from one real workflow before adding any reusable-route claim.
 - Add filled examples from real workflows.
 - Add export helpers after first use.
 - Promote stable procedures into Hermes skills.
