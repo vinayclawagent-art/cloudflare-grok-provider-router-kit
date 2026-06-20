@@ -15,11 +15,13 @@ Open `index.html` in a browser. No build step required. Inputs persist in localS
 - [[Provider Router Promotion Decision Card]] — complete after the trial packet to choose promote route / workflow-specific only / iterate recipe / hold without overstating validation.
 - [[Provider Router Post-Trial Debrief Template]] — fill after the decision card to turn route evidence into a README/prototype/skill patch queue without inventing a reusable-route claim.
 - [[Provider Router Evidence Quality Rubric]] — grade latency, cost, quality, fallback, and claim-scope proof before changing reusable-route wording.
+- [[Provider Router Claim-to-Patch Ledger]] — map each future reusable-route claim to evidence, rubric scores, allowed wording, and exact README/prototype/skill patch targets.
 
 ## Next iteration ideas
 - Fill the provider-router trial packet and promotion decision card during a real workflow; do not treat the route as validated until latency, cost, quality, failure behavior, and human review tradeoffs are recorded.
 - After the first trial, use the post-trial debrief template before changing any reusable route wording.
 - Use the evidence quality rubric as the final gate before promoting a provider route or adding generalized route claims.
+- Use the claim-to-patch ledger after the rubric so every wording change cites a concrete proof link and stays scoped to the observed workflow.
 - Use the provider-router trial handoff checklist before the first run so route criteria and candidate providers are explicit before evidence is collected.
 - Export markdown directly into Obsidian.
 - Add an evidence log after the first real trial.

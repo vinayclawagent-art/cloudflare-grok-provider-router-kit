@@ -5,8 +5,8 @@ package: "[[Cloudflare Grok Provider Router Kit]]"
 source_note: "[[Grok Models on Cloudflare AI Gateway]]"
 github_repo: "https://github.com/vinayclawagent-art/cloudflare-grok-provider-router-kit"
 cadence: nightly
-last_improved: 2026-06-19
-next_focus: "Use the Provider Router Trial Packet during one real workflow, fill the evidence preset/promotion card/debrief, then grade the proof with [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Evidence Quality Rubric]] before patching README, prototype, or skill wording."
+last_improved: 2026-06-20
+next_focus: "Use the Provider Router Trial Packet during one real workflow, fill the evidence preset/promotion card/debrief, grade the proof with [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Evidence Quality Rubric]], then use [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Claim-to-Patch Ledger]] before patching README, prototype, or skill wording."
 tags: [improvement-loop, x-artifact-factory]
 ---
 # Cloudflare Grok Provider Router Kit Loop
@@ -15,6 +15,7 @@ Package: [[Cloudflare Grok Provider Router Kit]]
 GitHub: https://github.com/vinayclawagent-art/cloudflare-grok-provider-router-kit
 
 ## Current improvement
+- 2026-06-20: Added [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Claim-to-Patch Ledger|Provider Router Claim-to-Patch Ledger]] so future reusable-route wording changes are backed by proof links, rubric notes, and explicit patch targets. Ledger is ready; no validation proof was invented.
 - 2026-06-19: Added [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Evidence Quality Rubric|Provider Router Evidence Quality Rubric]] so future latency/cost/quality/fallback proof is graded before any reusable-route, README, prototype, or skill wording changes. Rubric is ready; no validation proof was invented.
 - 2026-06-10: Added [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Post-Trial Debrief Template|Provider Router Post-Trial Debrief Template]] so future route evidence turns into a source-backed patch queue before any reusable-route claim is made. Template is ready; no validation proof was invented.
 - 2026-06-09: Added [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Promotion Decision Card|Provider Router Promotion Decision Card]] so future provider-routing evidence maps to one explicit promote route / workflow-specific only / iterate recipe / hold outcome. Card is ready for the next real trial; no validation proof was invented.
@@ -23,7 +24,7 @@ GitHub: https://github.com/vinayclawagent-art/cloudflare-grok-provider-router-ki
 - 2026-06-06: Created first-pass prototype and repo mirror.
 
 ## Next focus
-Use the Provider Router Trial Packet during one real VinClawLabs workflow, fill the provider-router evidence preset/promotion card/debrief, then score the Provider Router Evidence Quality Rubric before adding a filled example or claiming a reusable route pattern.
+Use the Provider Router Trial Packet during one real VinClawLabs workflow, fill the provider-router evidence preset/promotion card/debrief, score the Provider Router Evidence Quality Rubric, then complete the Provider Router Claim-to-Patch Ledger before adding a filled example or claiming a reusable route pattern.
 
 ## Backlog
 - [x] Add one source-specific provider-routing evidence preset.
@@ -33,6 +34,7 @@ Use the Provider Router Trial Packet during one real VinClawLabs workflow, fill 
 - [x] Add a promotion decision card that prevents reusable route claims without real latency/cost/quality evidence.
 - [x] Add a post-trial debrief template that converts future trial evidence into a patch queue before reusable-route wording changes.
 - [x] Add an evidence quality rubric that grades latency/cost/quality/fallback proof before reusable-route wording changes.
+- [x] Add a claim-to-patch ledger that ties future reusable-route claims to proof links, rubric notes, allowed wording, and patch targets.
 - Decide whether the skill draft is reusable enough to promote.
 
 

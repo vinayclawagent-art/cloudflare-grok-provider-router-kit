@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/cloudflare-grok-provider-rou
 score: 8
 artifact_tracks: [prototype, infographic]
 improvement_cadence: nightly
-last_improved: 2026-06-19
+last_improved: 2026-06-20
 tags: [artifact-package, model-routing, cloudflare, grok]
 ---
 # Artifact Package: Cloudflare Grok Provider Router Kit
@@ -29,6 +29,7 @@ Cloudflare AI Gateway makes multimodal provider routing feel like product infras
 - Promotion decision card: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Promotion Decision Card|Provider Router Promotion Decision Card]]
 - Post-trial debrief template: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Post-Trial Debrief Template|Provider Router Post-Trial Debrief Template]]
 - Evidence quality rubric: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Evidence Quality Rubric|Provider Router Evidence Quality Rubric]]
+- Claim-to-patch ledger: [[Artifacts/Prototypes/cloudflare-grok-provider-router-kit/Provider Router Claim-to-Patch Ledger|Provider Router Claim-to-Patch Ledger]]
 - Infographic: [[Artifacts/Infographics/cloudflare-grok-provider-router-kit/workflow.md]]
 - Improvement loop: [[Cloudflare Grok Provider Router Kit Loop]]
 
@@ -49,6 +50,7 @@ No new skill candidate; this is currently best as a product/prototype package.
 - [x] Add a promotion decision card so future route evidence maps to promote route / workflow-specific only / iterate / hold.
 - [x] Add a post-trial debrief template that turns future evidence into a patch queue without claiming validation.
 - [x] Add an evidence quality rubric so latency/cost/quality/fallback proof is graded before reusable-route wording changes.
+- [x] Add a claim-to-patch ledger so future route claims become scoped, evidence-linked README/prototype/skill patch decisions.
 - Add a before/after evidence log after first use.
 - Convert repeated checklist fields into an installable Hermes skill only after validation.
 
@@ -56,6 +58,7 @@ No new skill candidate; this is currently best as a product/prototype package.
 https://github.com/vinayclawagent-art/cloudflare-grok-provider-router-kit
 
 ## Change log
+- 2026-06-20: Added a Provider Router Claim-to-Patch Ledger to translate future rubric-scored evidence into scoped README/prototype/skill patch decisions; ledger is template-ready, not validation proof.
 - 2026-06-19: Added a Provider Router Evidence Quality Rubric to grade future latency/cost/quality/fallback proof before any reusable-route or skill wording changes; rubric is template-ready, not validation proof.
 - 2026-06-10: Added a Provider Router Post-Trial Debrief Template so the first real route trial can produce source-backed lessons, patch queue items, and a reusable-route claim check without inventing proof.
 - 2026-06-09: Added a Provider Router Promotion Decision Card so the next real route trial has an explicit promote route / workflow-specific only / iterate recipe / hold gate; card is ready, not validation proof.
